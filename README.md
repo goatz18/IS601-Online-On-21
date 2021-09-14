@@ -1,1 +1,2 @@
-# IS601-Online-On-21
+# Hello IS601 Fall 2021
+## This is the introduction to GIT Source Code Management
